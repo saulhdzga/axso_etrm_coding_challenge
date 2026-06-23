@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PowerPositionReporter.Domain/PowerPositionReporter.Domain.csproj" />
+  <Project Path="PowerPositionReporter.Application/PowerPositionReporter.Application.csproj" />
+  <Project Path="PowerPositionReporter.Infrastructure/PowerPositionReporter.Infrastructure.csproj" />
+  <Project Path="PowerPositionReporter/PowerPositionReporter.csproj" />
+  <Project Path="PowerPositionReporter.Tests/PowerPositionReporter.Tests.csproj" />
+</Solution>

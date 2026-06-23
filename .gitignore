@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+.vscode/
+.agents/
+.codex/
+TestResults/
+logs/
+reports/
+manual-output*/
+*.user
+*.suo
